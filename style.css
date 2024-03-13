@@ -1,0 +1,10 @@
+header{
+    height: 50vh;
+    background: url(https://img.freepik.com/free-vector/realistic-background-futuristic-style_23-2149129125.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Poppins;
+}
+form{
+    background-image: linear-gradient(to right, white , rgb(209,209,233));
+}
